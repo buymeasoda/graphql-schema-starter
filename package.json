@@ -5,6 +5,9 @@
   "private": true,
   "author": "Ian Hill <ianhill@buymeasoda.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "apollo-server": "^2.13.1",
     "graphql": "^15.0.0"
